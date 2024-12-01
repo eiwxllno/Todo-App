@@ -1,3 +1,5 @@
 # TODO App
 
-# using javascript
+# Todo app using javascript
+
+# Details
